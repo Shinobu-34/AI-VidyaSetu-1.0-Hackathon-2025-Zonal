@@ -13,7 +13,7 @@
 
 ### 🎥 Project Demo
 
-[video](Project%20preview.mp4)
+<video src="https://github.com/Shinobu-34/AI-VidyaSetu-1.0-Hackathon-2025-Zonal/raw/main/Project%20preview.mp4" controls="controls" width="100%"></video>
 
 ---
 ## 🌟 Key Features
