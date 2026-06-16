@@ -1,8 +1,3 @@
-# 🧥 ClothShare
-### *Fashion with a Purpose. Warmth for Everyone.*
-
-ClothShare is a sustainable clothing donation platform designed to bridge the gap between people with excess clothing and those in need. By leveraging modern technology and AI, we make donating clothes simple, rewarding, and impactful.
-
 ---
 <table>
   <tr>
