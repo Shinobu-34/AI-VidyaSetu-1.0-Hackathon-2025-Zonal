@@ -11,6 +11,8 @@
   </tr>
 </table>
 
+### 🎥 Project Demo
+<video src="Project%20preview.mp4" controls="controls" width="100%"></video>
 ## 🌟 Key Features
 
 ### for Donors 🎁
