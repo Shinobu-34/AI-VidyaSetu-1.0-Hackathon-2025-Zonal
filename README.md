@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/95180ebf-151d-410a-a57e-c8e5262ca692
+
 <table>
   <tr>
     <td>
@@ -12,8 +16,7 @@
 </table>
 
 ### 🎥 Project Demo
-
-<video src="https://github.com/Shinobu-34/AI-VidyaSetu-1.0-Hackathon-2025-Zonal/raw/main/Project%20preview.mp4" controls="controls" width="100%"></video>
+https://github.com/user-attachments/assets/4e7741e5-5f27-42c0-8604-f3b65fa104cf
 
 ---
 ## 🌟 Key Features
