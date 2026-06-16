@@ -13,7 +13,7 @@
 
 ### 🎥 Project Demo
 
-<video src="Project%20preview.mp4" width="100%" controls></video>
+[video](Project%20preview.mp4)
 
 ---
 ## 🌟 Key Features
