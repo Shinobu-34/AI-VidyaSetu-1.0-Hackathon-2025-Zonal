@@ -4,6 +4,18 @@
 ClothShare is a sustainable clothing donation platform designed to bridge the gap between people with excess clothing and those in need. By leveraging modern technology and AI, we make donating clothes simple, rewarding, and impactful.
 
 ---
+<table>
+  <tr>
+    <td>
+      <h1>🧥 ClothShare</h1>
+      <h3><i>Fashion with a Purpose. Warmth for Everyone.</i></h3>
+      <p>ClothShare is a sustainable clothing donation platform designed to bridge the gap between people with excess clothing and those in need. By leveraging modern technology and AI, we make donating clothes simple, rewarding, and impactful.</p>
+    </td>
+    <td width="320" valign="top">
+      <img src="certificate%20%26%20win.jpg" alt="Hackathon Certificate" width="320" style="border-radius: 8px; margin-top: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌟 Key Features
 
