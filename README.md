@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/95180ebf-151d-410a-a57e-c8e5262ca692
-
 <table>
   <tr>
     <td>
