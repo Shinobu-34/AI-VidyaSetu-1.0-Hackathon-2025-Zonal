@@ -12,7 +12,10 @@
 </table>
 
 ### 🎥 Project Demo
-<video src="Project%20preview.mp4" controls="controls" width="100%"></video>
+
+<video src="Project%20preview.mp4" width="100%" controls></video>
+
+---
 ## 🌟 Key Features
 
 ### for Donors 🎁
