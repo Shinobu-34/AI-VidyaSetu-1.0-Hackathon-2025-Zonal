@@ -11,9 +11,6 @@
   </tr>
 </table>
 
-### 🎥 Project Demo
-https://github.com/user-attachments/assets/4e7741e5-5f27-42c0-8604-f3b65fa104cf
-
 ---
 ## 🌟 Key Features
 
@@ -108,6 +105,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
+### 🎥 Project Demo
+https://github.com/user-attachments/assets/4e7741e5-5f27-42c0-8604-f3b65fa104cf
+
+---
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
